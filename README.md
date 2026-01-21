@@ -90,14 +90,15 @@ share openly.
 
 ---
 
-## 🛠️ Tools & Technologies
-
-- Python, NumPy, Pandas, Scikit-learn
-- PyTorch, TensorFlow / Keras
-- FastAPI, Docker
-- SQL (MariaDB)
-- Git, GitHub, GitLab
-- Linux, VS Code
+## 🛠️ Skills
+Technical: Python, C++, R, Java; SQL (MySQL/MariaDB), NoSQL
+ML & Data: Scikit-learn, Pandas, NumPy, PyTorch, TensorFlow/Keras
+Backend & Web: FastAPI, Vue.js
+CV & Audio: Ultralytics (YOLO), Supervision, Librosa
+DevOps & MLOps: Docker, DVC, Vagrant; Git (GitHub, GitLab)
+Systems & Formats: Linux, Bash, JSON, YAML
+Tools: VS Code
+Languages: English (C1), Romanian (Native)
 
 ---
 
