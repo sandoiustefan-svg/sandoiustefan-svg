@@ -4,8 +4,8 @@ Third-year **Artificial Intelligence** student at the **University of Groningen*
 minoring in **Computing Science**, with a strong focus on **machine learning systems**
 and **end-to-end software development**.
 
-I enjoy working across the full stack — from data and models to APIs, databases,
-and user-facing applications.
+I enjoy working across the full stack — from **data pipelines and models** to **APIs,
+databases, and user-facing applications**.
 
 ---
 
@@ -13,7 +13,7 @@ and user-facing applications.
 
 - Machine Learning & Deep Learning (CNNs, RNNs, LSTMs, Transformers)
 - Time-series forecasting & signal processing
-- Audio and vision-based ML systems
+- Audio and computer-vision ML systems
 - **Full-stack development** and software architecture
 - ML system design, deployment, and reproducibility
 
@@ -22,15 +22,16 @@ and user-facing applications.
 ## 🚀 Selected Public Projects
 
 ### 🌬️ Wind Power Forecasting
-**End-to-end ML system** for 48-hour ahead hourly wind power forecasting across
-multiple Norwegian bidding zones.
+**End-to-end machine learning pipeline** for **61-hour ahead regional wind power forecasting in Norway**.
 
-- Real-world energy datasets
-- Feature engineering with cyclical encodings and rolling windows
-- Multiple forecasting models (ARIMA/SARIMA, GRU, LSTM, Transformer)
-- **FastAPI** prediction API and **Dockerized** deployment
+- Integration of **MET weather forecast and nowcast datasets**
+- Feature engineering with temporal and regional alignment pipelines
+- Deep learning forecasting models (GRU / LSTM / Transformer architectures)
+- Modular ML pipeline with reproducible experiments
+- **FastAPI service** for model inference and prediction serving
+- Automated workflows and experiment setup
 
-📂 Repository: `windAI_rug`
+📂 Repository: `ForecastingWindPower`
 
 ---
 
@@ -70,6 +71,18 @@ Computer vision system for analyzing soccer broadcasts.
 
 ---
 
+### 🐦 Radar Bird Classification
+Machine learning system for **detecting and classifying bird species from radar signals**
+to improve monitoring around wind energy infrastructure.
+
+- Radar signal feature engineering
+- Classical ML and ensemble methods
+- Focus on ecological monitoring and renewable energy environments
+
+📂 Repository: `RadarBirdNet`
+
+---
+
 ## 💻 Full-Stack Experience
 
 Alongside machine learning projects, I have developed **full-stack web applications**
@@ -77,36 +90,47 @@ using:
 
 - **FastAPI** backends exposing RESTful APIs  
 - **Vue.js** frontends for interaction and visualization  
-- **MariaDB** for persistent storage  
+- **MariaDB / MySQL** for persistent storage  
 - Modular architectures following the **MVVM pattern**
 
-Some of these projects were developed as part of university courses and are hosted
-in **private GitLab repositories under university ownership**.  
-While they cannot be made public, they involved full end-to-end development,
-including API design, frontend–backend integration, and database modeling.
-
-Public repositories on this profile focus on projects that I fully own and can
-share openly.
+These projects combine **data processing, machine learning pipelines,
+and production-ready APIs**.
 
 ---
 
 ## 🛠️ Skills
-- Technical: Python, C++, R, Java; SQL (MySQL/MariaDB), NoSQL
-- ML & Data: Scikit-learn, Pandas, NumPy, PyTorch, TensorFlow/Keras
-- Backend & Web: FastAPI, Vue.js
-- CV & Audio: Ultralytics (YOLO), Supervision, Librosa
-- DevOps & MLOps: Docker, DVC, Vagrant; Git (GitHub, GitLab)
-- Systems & Formats: Linux, Bash, JSON, YAML
-- Tools: VS Code
-- Languages: English (C1), Romanian (Native)
+
+**Languages**  
+Python, C++, Java, R, SQL
+
+**Machine Learning & Data**  
+PyTorch, TensorFlow/Keras, Scikit-learn, Pandas, NumPy
+
+**Computer Vision & Audio**  
+Ultralytics (YOLO), Supervision, Librosa
+
+**Backend & Web**  
+FastAPI, Vue.js, REST APIs
+
+**DevOps & MLOps**  
+Docker, DVC, Git, Linux, Bash
+
+**Data & Formats**  
+JSON, YAML, SQL databases
+
+**Tools**  
+VS Code
+
+**Languages**  
+English (C1), Romanian (Native)
 
 ---
 
 ## 📫 Contact
 
-- 📍 Groningen, Netherlands  
-- ✉️ sandoiu.stefan@gmail.com  
-- 🔗 LinkedIn: www.linkedin.com/in/bogdan-sandoiu-3a5a20255
+📍 Groningen, Netherlands  
+✉️ sandoiu.stefan@gmail.com  
+🔗 LinkedIn: www.linkedin.com/in/bogdan-sandoiu-3a5a20255
 
 ---
 
